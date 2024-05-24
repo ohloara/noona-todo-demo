@@ -56,3 +56,7 @@ body{
   background-color: gainsboro;
   color:white;
 }
+.complete{
+  background-color: lightgray;
+  color: white;
+}
