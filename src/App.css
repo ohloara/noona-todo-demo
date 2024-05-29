@@ -100,3 +100,8 @@ button{
 .red-error{
   color: red;
 }
+
+.logout{
+  color:blue;
+  cursor: pointer;
+}
